@@ -1,0 +1,1554 @@
+[
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Afghanistan",
+    "country_code": "AFG",
+    "country_code_two": "AF",
+    "phone_code": "93"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Albania",
+    "country_code": "ALB",
+    "country_code_two": "AL",
+    "phone_code": "355"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "country_name": "Algeria",
+    "country_code": "DZA",
+    "country_code_two": "DZ",
+    "phone_code": "213"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Andorra",
+    "country_code": "AND",
+    "country_code_two": "AD",
+    "phone_code": "376"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Angola",
+    "country_code": "AGO",
+    "country_code_two": "AO",
+    "phone_code": "244"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Antigua And Barbuda",
+    "country_code": "ATG",
+    "country_code_two": "AG",
+    "phone_code": "+1-268"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Argentina",
+    "country_code": "ARG",
+    "country_code_two": "AR",
+    "phone_code": "54"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Armenia",
+    "country_code": "ARM",
+    "country_code_two": "AM",
+    "phone_code": "374"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "country_name": "Australia",
+    "country_code": "AUS",
+    "country_code_two": "AU",
+    "phone_code": "61"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "Austria",
+    "country_code": "AUT",
+    "country_code_two": "AT",
+    "phone_code": "43"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Azerbaijan",
+    "country_code": "AZE",
+    "country_code_two": "AZ",
+    "phone_code": "994"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Bahrain",
+    "country_code": "BHR",
+    "country_code_two": "BH",
+    "phone_code": "973"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Bangladesh",
+    "country_code": "BGD",
+    "country_code_two": "BD",
+    "phone_code": "880"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Barbados",
+    "country_code": "BRB",
+    "country_code_two": "BB",
+    "phone_code": "+1-246"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Belarus",
+    "country_code": "BLR",
+    "country_code_two": "BY",
+    "phone_code": "375"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "Belgium",
+    "country_code": "BEL",
+    "country_code_two": "BE",
+    "phone_code": "32"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "Belize",
+    "country_code": "BLZ",
+    "country_code_two": "BZ",
+    "phone_code": "501"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Benin",
+    "country_code": "BEN",
+    "country_code_two": "BJ",
+    "phone_code": "229"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Bhutan",
+    "country_code": "BTN",
+    "country_code_two": "BT",
+    "phone_code": "975"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Bolivia",
+    "country_code": "BOL",
+    "country_code_two": "BO",
+    "phone_code": "591"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Bonaire, Sint Eustatius and Saba",
+    "country_code": "BES",
+    "country_code_two": "BQ",
+    "phone_code": "599"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Bosnia and Herzegovina",
+    "country_code": "BIH",
+    "country_code_two": "BA",
+    "phone_code": "387"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "country_name": "Botswana",
+    "country_code": "BWA",
+    "country_code_two": "BW",
+    "phone_code": "267"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Brazil",
+    "country_code": "BRA",
+    "country_code_two": "BR",
+    "phone_code": "55"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Brunei",
+    "country_code": "BRN",
+    "country_code_two": "BN",
+    "phone_code": "673"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Bulgaria",
+    "country_code": "BGR",
+    "country_code_two": "BG",
+    "phone_code": "359"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Burkina Faso",
+    "country_code": "BFA",
+    "country_code_two": "BF",
+    "phone_code": "226"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Burundi",
+    "country_code": "BDI",
+    "country_code_two": "BI",
+    "phone_code": "257"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Cambodia",
+    "country_code": "KHM",
+    "country_code_two": "KH",
+    "phone_code": "855"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Cameroon",
+    "country_code": "CMR",
+    "country_code_two": "CM",
+    "phone_code": "237"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "country_name": "Canada",
+    "country_code": "CAN",
+    "country_code_two": "CA",
+    "phone_code": "1"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Cape Verde",
+    "country_code": "CPV",
+    "country_code_two": "CV",
+    "phone_code": "238"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Central African Republic",
+    "country_code": "CAF",
+    "country_code_two": "CF",
+    "phone_code": "236"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Chad",
+    "country_code": "TCD",
+    "country_code_two": "TD",
+    "phone_code": "235"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Chile",
+    "country_code": "CHL",
+    "country_code_two": "CL",
+    "phone_code": "56"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "country_name": "China",
+    "country_code": "CHN",
+    "country_code_two": "CN",
+    "phone_code": "86"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Colombia",
+    "country_code": "COL",
+    "country_code_two": "CO",
+    "phone_code": "57"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Comoros",
+    "country_code": "COM",
+    "country_code_two": "KM",
+    "phone_code": "269"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Congo",
+    "country_code": "COG",
+    "country_code_two": "CG",
+    "phone_code": "242"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "Costa Rica",
+    "country_code": "CRI",
+    "country_code_two": "CR",
+    "phone_code": "506"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Cote D'Ivoire (Ivory Coast)",
+    "country_code": "CIV",
+    "country_code_two": "CI",
+    "phone_code": "225"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Croatia",
+    "country_code": "HRV",
+    "country_code_two": "HR",
+    "phone_code": "385"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Cuba",
+    "country_code": "CUB",
+    "country_code_two": "CU",
+    "phone_code": "53"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Cyprus",
+    "country_code": "CYP",
+    "country_code_two": "CY",
+    "phone_code": "357"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Czech Republic",
+    "country_code": "CZE",
+    "country_code_two": "CZ",
+    "phone_code": "420"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Democratic Republic of the Congo",
+    "country_code": "COD",
+    "country_code_two": "CD",
+    "phone_code": "243"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Denmark",
+    "country_code": "DNK",
+    "country_code_two": "DK",
+    "phone_code": "45"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Djibouti",
+    "country_code": "DJI",
+    "country_code_two": "DJ",
+    "phone_code": "253"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Dominica",
+    "country_code": "DMA",
+    "country_code_two": "DM",
+    "phone_code": "+1-767"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Dominican Republic",
+    "country_code": "DOM",
+    "country_code_two": "DO",
+    "phone_code": "+1-809 and 1-829"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "East Timor",
+    "country_code": "TLS",
+    "country_code_two": "TL",
+    "phone_code": "670"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Ecuador",
+    "country_code": "ECU",
+    "country_code_two": "EC",
+    "phone_code": "593"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "country_name": "Egypt",
+    "country_code": "EGY",
+    "country_code_two": "EG",
+    "phone_code": "20"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "El Salvador",
+    "country_code": "SLV",
+    "country_code_two": "SV",
+    "phone_code": "503"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Equatorial Guinea",
+    "country_code": "GNQ",
+    "country_code_two": "GQ",
+    "phone_code": "240"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Eritrea",
+    "country_code": "ERI",
+    "country_code_two": "ER",
+    "phone_code": "291"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Estonia",
+    "country_code": "EST",
+    "country_code_two": "EE",
+    "phone_code": "372"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Ethiopia",
+    "country_code": "ETH",
+    "country_code_two": "ET",
+    "phone_code": "251"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "country_name": "Fiji Islands",
+    "country_code": "FJI",
+    "country_code_two": "FJ",
+    "phone_code": "679"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Finland",
+    "country_code": "FIN",
+    "country_code_two": "FI",
+    "phone_code": "358"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "France",
+    "country_code": "FRA",
+    "country_code_two": "FR",
+    "phone_code": "33"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Gabon",
+    "country_code": "GAB",
+    "country_code_two": "GA",
+    "phone_code": "241"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Gambia The",
+    "country_code": "GMB",
+    "country_code_two": "GM",
+    "phone_code": "220"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Georgia",
+    "country_code": "GEO",
+    "country_code_two": "GE",
+    "phone_code": "995"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "Germany",
+    "country_code": "DEU",
+    "country_code_two": "DE",
+    "phone_code": "49"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Ghana",
+    "country_code": "GHA",
+    "country_code_two": "GH",
+    "phone_code": "233"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Greece",
+    "country_code": "GRC",
+    "country_code_two": "GR",
+    "phone_code": "30"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Grenada",
+    "country_code": "GRD",
+    "country_code_two": "GD",
+    "phone_code": "+1-473"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "Guatemala",
+    "country_code": "GTM",
+    "country_code_two": "GT",
+    "phone_code": "502"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Guinea",
+    "country_code": "GIN",
+    "country_code_two": "GN",
+    "phone_code": "224"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Guinea-Bissau",
+    "country_code": "GNB",
+    "country_code_two": "GW",
+    "phone_code": "245"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Guyana",
+    "country_code": "GUY",
+    "country_code_two": "GY",
+    "phone_code": "592"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "country_code_two": "HT",
+    "phone_code": "509"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "Honduras",
+    "country_code": "HND",
+    "country_code_two": "HN",
+    "phone_code": "504"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Hungary",
+    "country_code": "HUN",
+    "country_code_two": "HU",
+    "phone_code": "36"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Iceland",
+    "country_code": "ISL",
+    "country_code_two": "IS",
+    "phone_code": "354"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "India",
+    "country_code": "IND",
+    "country_code_two": "IN",
+    "phone_code": "91"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Indonesia",
+    "country_code": "IDN",
+    "country_code_two": "ID",
+    "phone_code": "62"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Iran",
+    "country_code": "IRN",
+    "country_code_two": "IR",
+    "phone_code": "98"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Iraq",
+    "country_code": "IRQ",
+    "country_code_two": "IQ",
+    "phone_code": "964"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Ireland",
+    "country_code": "IRL",
+    "country_code_two": "IE",
+    "phone_code": "353"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Israel",
+    "country_code": "ISR",
+    "country_code_two": "IL",
+    "phone_code": "972"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Italy",
+    "country_code": "ITA",
+    "country_code_two": "IT",
+    "phone_code": "39"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Jamaica",
+    "country_code": "JAM",
+    "country_code_two": "JM",
+    "phone_code": "+1-876"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "country_name": "Japan",
+    "country_code": "JPN",
+    "country_code_two": "JP",
+    "phone_code": "81"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Jordan",
+    "country_code": "JOR",
+    "country_code_two": "JO",
+    "phone_code": "962"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "country_name": "Kazakhstan",
+    "country_code": "KAZ",
+    "country_code_two": "KZ",
+    "phone_code": "7"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Kenya",
+    "country_code": "KEN",
+    "country_code_two": "KE",
+    "phone_code": "254"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "country_name": "Kiribati",
+    "country_code": "KIR",
+    "country_code_two": "KI",
+    "phone_code": "686"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Kuwait",
+    "country_code": "KWT",
+    "country_code_two": "KW",
+    "phone_code": "965"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "country_name": "Kyrgyzstan",
+    "country_code": "KGZ",
+    "country_code_two": "KG",
+    "phone_code": "996"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Laos",
+    "country_code": "LAO",
+    "country_code_two": "LA",
+    "phone_code": "856"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Latvia",
+    "country_code": "LVA",
+    "country_code_two": "LV",
+    "phone_code": "371"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Lebanon",
+    "country_code": "LBN",
+    "country_code_two": "LB",
+    "phone_code": "961"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "country_name": "Lesotho",
+    "country_code": "LSO",
+    "country_code_two": "LS",
+    "phone_code": "266"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Liberia",
+    "country_code": "LBR",
+    "country_code_two": "LR",
+    "phone_code": "231"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "country_name": "Libya",
+    "country_code": "LBY",
+    "country_code_two": "LY",
+    "phone_code": "218"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "Liechtenstein",
+    "country_code": "LIE",
+    "country_code_two": "LI",
+    "phone_code": "423"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Lithuania",
+    "country_code": "LTU",
+    "country_code_two": "LT",
+    "phone_code": "370"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "Luxembourg",
+    "country_code": "LUX",
+    "country_code_two": "LU",
+    "phone_code": "352"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Macedonia",
+    "country_code": "MKD",
+    "country_code_two": "MK",
+    "phone_code": "389"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Madagascar",
+    "country_code": "MDG",
+    "country_code_two": "MG",
+    "phone_code": "261"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Malawi",
+    "country_code": "MWI",
+    "country_code_two": "MW",
+    "phone_code": "265"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Malaysia",
+    "country_code": "MYS",
+    "country_code_two": "MY",
+    "phone_code": "60"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Maldives",
+    "country_code": "MDV",
+    "country_code_two": "MV",
+    "phone_code": "960"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Mali",
+    "country_code": "MLI",
+    "country_code_two": "ML",
+    "phone_code": "223"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Malta",
+    "country_code": "MLT",
+    "country_code_two": "MT",
+    "phone_code": "356"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Mauritania",
+    "country_code": "MRT",
+    "country_code_two": "MR",
+    "phone_code": "222"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Mauritius",
+    "country_code": "MUS",
+    "country_code_two": "MU",
+    "phone_code": "230"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "Mexico",
+    "country_code": "MEX",
+    "country_code_two": "MX",
+    "phone_code": "52"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "country_name": "Micronesia",
+    "country_code": "FSM",
+    "country_code_two": "FM",
+    "phone_code": "691"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Moldova",
+    "country_code": "MDA",
+    "country_code_two": "MD",
+    "phone_code": "373"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "country_name": "Mongolia",
+    "country_code": "MNG",
+    "country_code_two": "MN",
+    "phone_code": "976"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Montenegro",
+    "country_code": "MNE",
+    "country_code_two": "ME",
+    "phone_code": "382"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "country_name": "Morocco",
+    "country_code": "MAR",
+    "country_code_two": "MA",
+    "phone_code": "212"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Mozambique",
+    "country_code": "MOZ",
+    "country_code_two": "MZ",
+    "phone_code": "258"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Myanmar",
+    "country_code": "MMR",
+    "country_code_two": "MM",
+    "phone_code": "95"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "country_name": "Namibia",
+    "country_code": "NAM",
+    "country_code_two": "NA",
+    "phone_code": "264"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "country_name": "Nauru",
+    "country_code": "NRU",
+    "country_code_two": "NR",
+    "phone_code": "674"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Nepal",
+    "country_code": "NPL",
+    "country_code_two": "NP",
+    "phone_code": "977"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "Netherlands",
+    "country_code": "NLD",
+    "country_code_two": "NL",
+    "phone_code": "31"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "country_name": "New Zealand",
+    "country_code": "NZL",
+    "country_code_two": "NZ",
+    "phone_code": "64"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "Nicaragua",
+    "country_code": "NIC",
+    "country_code_two": "NI",
+    "phone_code": "505"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Niger",
+    "country_code": "NER",
+    "country_code_two": "NE",
+    "phone_code": "227"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Nigeria",
+    "country_code": "NGA",
+    "country_code_two": "NG",
+    "phone_code": "234"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "country_name": "North Korea",
+    "country_code": "PRK",
+    "country_code_two": "KP",
+    "phone_code": "850"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Norway",
+    "country_code": "NOR",
+    "country_code_two": "NO",
+    "phone_code": "47"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Oman",
+    "country_code": "OMN",
+    "country_code_two": "OM",
+    "phone_code": "968"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Pakistan",
+    "country_code": "PAK",
+    "country_code_two": "PK",
+    "phone_code": "92"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "country_name": "Palau",
+    "country_code": "PLW",
+    "country_code_two": "PW",
+    "phone_code": "680"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Central America",
+    "country_name": "Panama",
+    "country_code": "PAN",
+    "country_code_two": "PA",
+    "phone_code": "507"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "country_name": "Papua new Guinea",
+    "country_code": "PNG",
+    "country_code_two": "PG",
+    "phone_code": "675"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Paraguay",
+    "country_code": "PRY",
+    "country_code_two": "PY",
+    "phone_code": "595"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Peru",
+    "country_code": "PER",
+    "country_code_two": "PE",
+    "phone_code": "51"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Philippines",
+    "country_code": "PHL",
+    "country_code_two": "PH",
+    "phone_code": "63"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Poland",
+    "country_code": "POL",
+    "country_code_two": "PL",
+    "phone_code": "48"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Portugal",
+    "country_code": "PRT",
+    "country_code_two": "PT",
+    "phone_code": "351"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Qatar",
+    "country_code": "QAT",
+    "country_code_two": "QA",
+    "phone_code": "974"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Romania",
+    "country_code": "ROU",
+    "country_code_two": "RO",
+    "phone_code": "40"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Russia",
+    "country_code": "RUS",
+    "country_code_two": "RU",
+    "phone_code": "7"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Rwanda",
+    "country_code": "RWA",
+    "country_code_two": "RW",
+    "phone_code": "250"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Saint Kitts And Nevis",
+    "country_code": "KNA",
+    "country_code_two": "KN",
+    "phone_code": "+1-869"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Saint Lucia",
+    "country_code": "LCA",
+    "country_code_two": "LC",
+    "phone_code": "+1-758"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Saint Vincent And The Grenadines",
+    "country_code": "VCT",
+    "country_code_two": "VC",
+    "phone_code": "+1-784"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "country_name": "Samoa",
+    "country_code": "WSM",
+    "country_code_two": "WS",
+    "phone_code": "685"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "San Marino",
+    "country_code": "SMR",
+    "country_code_two": "SM",
+    "phone_code": "378"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "Sao Tome and Principe",
+    "country_code": "STP",
+    "country_code_two": "ST",
+    "phone_code": "239"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Saudi Arabia",
+    "country_code": "SAU",
+    "country_code_two": "SA",
+    "phone_code": "966"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Senegal",
+    "country_code": "SEN",
+    "country_code_two": "SN",
+    "phone_code": "221"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Serbia",
+    "country_code": "SRB",
+    "country_code_two": "RS",
+    "phone_code": "381"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Seychelles",
+    "country_code": "SYC",
+    "country_code_two": "SC",
+    "phone_code": "248"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Sierra Leone",
+    "country_code": "SLE",
+    "country_code_two": "SL",
+    "phone_code": "232"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Singapore",
+    "country_code": "SGP",
+    "country_code_two": "SG",
+    "phone_code": "65"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Slovakia",
+    "country_code": "SVK",
+    "country_code_two": "SK",
+    "phone_code": "421"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Slovenia",
+    "country_code": "SVN",
+    "country_code_two": "SI",
+    "phone_code": "386"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "country_name": "Solomon Islands",
+    "country_code": "SLB",
+    "country_code_two": "SB",
+    "phone_code": "677"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Somalia",
+    "country_code": "SOM",
+    "country_code_two": "SO",
+    "phone_code": "252"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "country_name": "South Africa",
+    "country_code": "ZAF",
+    "country_code_two": "ZA",
+    "phone_code": "27"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "country_name": "South Korea",
+    "country_code": "KOR",
+    "country_code_two": "KR",
+    "phone_code": "82"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "country_name": "South Sudan",
+    "country_code": "SSD",
+    "country_code_two": "SS",
+    "phone_code": "211"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "country_name": "Spain",
+    "country_code": "ESP",
+    "country_code_two": "ES",
+    "phone_code": "34"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "country_name": "Sri Lanka",
+    "country_code": "LKA",
+    "country_code_two": "LK",
+    "phone_code": "94"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "country_name": "Sudan",
+    "country_code": "SDN",
+    "country_code_two": "SD",
+    "phone_code": "249"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Suriname",
+    "country_code": "SUR",
+    "country_code_two": "SR",
+    "phone_code": "597"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "country_name": "Swaziland",
+    "country_code": "SWZ",
+    "country_code_two": "SZ",
+    "phone_code": "268"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "Sweden",
+    "country_code": "SWE",
+    "country_code_two": "SE",
+    "phone_code": "46"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "country_name": "Switzerland",
+    "country_code": "CHE",
+    "country_code_two": "CH",
+    "phone_code": "41"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Syria",
+    "country_code": "SYR",
+    "country_code_two": "SY",
+    "phone_code": "963"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "country_name": "Taiwan",
+    "country_code": "TWN",
+    "country_code_two": "TW",
+    "phone_code": "886"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "country_name": "Tajikistan",
+    "country_code": "TJK",
+    "country_code_two": "TJ",
+    "phone_code": "992"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Tanzania",
+    "country_code": "TZA",
+    "country_code_two": "TZ",
+    "phone_code": "255"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Thailand",
+    "country_code": "THA",
+    "country_code_two": "TH",
+    "phone_code": "66"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "The Bahamas",
+    "country_code": "BHS",
+    "country_code_two": "BS",
+    "phone_code": "+1-242"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "country_name": "Togo",
+    "country_code": "TGO",
+    "country_code_two": "TG",
+    "phone_code": "228"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "country_name": "Tonga",
+    "country_code": "TON",
+    "country_code_two": "TO",
+    "phone_code": "676"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Trinidad And Tobago",
+    "country_code": "TTO",
+    "country_code_two": "TT",
+    "phone_code": "+1-868"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "country_name": "Tunisia",
+    "country_code": "TUN",
+    "country_code_two": "TN",
+    "phone_code": "216"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Turkey",
+    "country_code": "TUR",
+    "country_code_two": "TR",
+    "phone_code": "90"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "country_name": "Turkmenistan",
+    "country_code": "TKM",
+    "country_code_two": "TM",
+    "phone_code": "993"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "country_name": "Tuvalu",
+    "country_code": "TUV",
+    "country_code_two": "TV",
+    "phone_code": "688"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Uganda",
+    "country_code": "UGA",
+    "country_code_two": "UG",
+    "phone_code": "256"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "country_name": "Ukraine",
+    "country_code": "UKR",
+    "country_code_two": "UA",
+    "phone_code": "380"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "United Arab Emirates",
+    "country_code": "ARE",
+    "country_code_two": "AE",
+    "phone_code": "971"
+  },
+  {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "country_name": "United Kingdom",
+    "country_code": "GBR",
+    "country_code_two": "GB",
+    "phone_code": "44"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "country_name": "United States",
+    "country_code": "USA",
+    "country_code_two": "US",
+    "phone_code": "1"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Uruguay",
+    "country_code": "URY",
+    "country_code_two": "UY",
+    "phone_code": "598"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "country_name": "Uzbekistan",
+    "country_code": "UZB",
+    "country_code_two": "UZ",
+    "phone_code": "998"
+  },
+  {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "country_name": "Vanuatu",
+    "country_code": "VUT",
+    "country_code_two": "VU",
+    "phone_code": "678"
+  },
+  {
+    "region": "Americas",
+    "subregion": "South America",
+    "country_name": "Venezuela",
+    "country_code": "VEN",
+    "country_code_two": "VE",
+    "phone_code": "58"
+  },
+  {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "country_name": "Vietnam",
+    "country_code": "VNM",
+    "country_code_two": "VN",
+    "phone_code": "84"
+  },
+  {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "country_name": "Virgin Islands (US)",
+    "country_code": "VIR",
+    "country_code_two": "VI",
+    "phone_code": "+1-340"
+  },
+  {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "country_name": "Yemen",
+    "country_code": "YEM",
+    "country_code_two": "YE",
+    "phone_code": "967"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Zambia",
+    "country_code": "ZMB",
+    "country_code_two": "ZM",
+    "phone_code": "260"
+  },
+  {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "country_name": "Zimbabwe",
+    "country_code": "ZWE",
+    "country_code_two": "ZW",
+    "phone_code": "263"
+  }
+]

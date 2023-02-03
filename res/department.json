@@ -1,0 +1,94 @@
+[
+  {
+    "id": "HR-10000",
+    "name": "Human Resources",
+    "jobTitles": [
+      "HR Manager",
+      "Recruiter",
+      "Benefits Coordinator"
+    ]
+  },
+  {
+    "id": "FI-10001",
+    "name": "Finance",
+    "jobTitles": [
+      "Financial Analyst",
+      "Accounting Manager",
+      "Treasury Analyst"
+    ]
+  },
+  {
+    "id": "SA-10002",
+    "name": "Sales",
+    "jobTitles": [
+      "Sales Representative",
+      "Sales Manager",
+      "Business Development Manager"
+    ]
+  },
+  {
+    "id": "MA-10003",
+    "name": "Marketing",
+    "jobTitles": [
+      "Marketing Coordinator",
+      "Digital Marketing Manager",
+      "Brand Manager"
+    ]
+  },
+  {
+    "id": "OP-10004",
+    "name": "Operations",
+    "jobTitles": [
+      "Operations Manager",
+      "Supply Chain Coordinator",
+      "Production Manager"
+    ]
+  },
+  {
+    "id": "IT-10005",
+    "name": "IT",
+    "jobTitles": [
+      "IT Director",
+      "Systems Administrator",
+      "Network Engineer"
+    ]
+  },
+  {
+    "id": "CS-10006",
+    "name": "Customer Service",
+    "jobTitles": [
+      "Customer Service Representative",
+      "Customer Support Manager",
+      "Technical Support Engineer"
+    ]
+  },
+  {
+    "id": "LE-10007",
+    "name": "Legal",
+    "jobTitles": [
+      "Corporate Counsel",
+      "Legal Assistant",
+      "Compliance Officer"
+    ]
+  },
+  {
+    "id": "RD-10008",
+    "name": "Research and Development",
+    "jobTitles": [
+      "Research Scientist",
+      "Product Development Engineer",
+      "Quality Control Analyst"
+    ]
+  },
+  {
+    "id": "EX-10009",
+    "name": "Executive",
+    "jobTitles": [
+      "CEO",
+      "CFO",
+      "COO",
+      "President",
+      "Vice President"
+    ]
+  }
+]
